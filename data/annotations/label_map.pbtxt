@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'schil'
+}
+
+item {
+    id: 2
+    name: 'spin'
+}
+
+item {
+    id: 3
+    name: 'thanos'
+}
